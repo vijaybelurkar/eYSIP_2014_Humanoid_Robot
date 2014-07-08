@@ -1,0 +1,1299 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.6.28)  8 JUL 2014 14:48
+entering extended mode
+**Final_Project_Report_Humanoid_Robot.tex
+
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks17
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count90
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen113
+\captionmargin@=\dimen114
+\captionwidth=\dimen115
+\caption@tempdima=\dimen116
+\caption@indent=\dimen117
+\caption@parindent=\dimen118
+\caption@hangindent=\dimen119
+)
+\c@ContinuedFloat=\count91
+)
+\c@KVtest=\count92
+\sf@farskip=\skip43
+\sf@captopadj=\dimen120
+\sf@capskip=\skip44
+\sf@nearskip=\skip45
+\c@subfigure=\count93
+\c@subfigure@save=\count94
+\c@lofdepth=\count95
+\c@subtable=\count96
+\c@subtable@save=\count97
+\c@lotdepth=\count98
+\sf@top=\skip46
+\sf@bottom=\skip47
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2012/10/14 v2.6b package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+\XKV@depth=\count99
+File: xkeyval.tex 2012/10/14 v2.6b key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty"
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\trimclip.sty"
+Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box26
+)
+\tc@llx=\dimen121
+\tc@lly=\dimen122
+\tc@urx=\dimen123
+\tc@ury=\dimen124
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\tc-pdftex.def"
+File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen125
+\adjbox@Height=\dimen126
+\adjbox@Depth=\dimen127
+\adjbox@Totalheight=\dimen128
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ifoddpage\ifoddpage.sty"
+Package: ifoddpage 2011/09/13 v1.0 Conditionals for odd/even page detection
+\c@checkoddpage=\count100
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box27
+\sift@deathcycles=\count101
+\@vwid@loff=\dimen129
+\@vwid@roff=\dimen130
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\wrapfig\wrapfig.sty"
+\wrapoverhang=\dimen131
+\WF@size=\dimen132
+\c@WF@wrappedlines=\count102
+\WF@box=\box28
+\WF@everypar=\toks20
+Package: wrapfig 2003/01/31  v 3.6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip48
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen133
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen134
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count103
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count104
+\leftroot@=\count105
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count106
+\DOTSCASE@=\count107
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen135
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count108
+\c@MaxMatrixCols=\count109
+\dotsspace@=\muskip10
+\c@parentequation=\count110
+\dspbrk@lvl=\count111
+\tag@help=\toks22
+\row@=\count112
+\column@=\count113
+\maxfields@=\count114
+\andhelp@=\toks23
+\eqnshift@=\dimen136
+\alignsep@=\dimen137
+\tagshift@=\dimen138
+\tagwidth@=\dimen139
+\totwidth@=\dimen140
+\lineht@=\dimen141
+\@envbody=\toks24
+\multlinegap=\skip49
+\multlinetaggap=\skip50
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen142
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen143
+\Hy@linkcounter=\count115
+\Hy@pagecounter=\count116
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count117
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count118
+
+(C:\Users\Vijay\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen144
+\Fld@menulength=\count119
+\Field@Width=\dimen145
+\Fld@charsize=\dimen146
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count120
+\c@Item=\count121
+\c@Hfootnote=\count122
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count123
+\c@bookmark@seq@number=\count124
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip51
+)
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (597.50787pt) is ignored.
+
+
+Package geometry Warning: Over-specification in `v'-direction.
+    `height' (845.04684pt) is ignored.
+
+
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.aux
+
+LaTeX Warning: Label `fig: Mech design phase1' multiply defined.
+
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\Vijay\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count125
+\scratchdimen=\dimen147
+\scratchbox=\box31
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen148
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks27
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \celsius on input line 30.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 30.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 30.
+Package gensymb Info: Using \Omega for \ohm on input line 30.
+
+Package gensymb Warning: Not defining \micro.
+
+\AtBeginShipoutBox=\box32
+Package hyperref Info: Link coloring OFF on input line 30.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count131
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.out)
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.out)
+\@outlinefile=\write3
+
+<iitlogo.jpg, id=99, 338.7054pt x 298.4751pt>
+File: iitlogo.jpg Graphic file (type jpg)
+ <use iitlogo.jpg>
+Package pdftex.def Info: iitlogo.jpg used on input line 51.
+(pdftex.def)             Requested size: 338.70457pt x 298.47437pt.
+ [1
+
+{C:/Users/Vijay/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Vi
+jay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humano
+id_Robot/iitlogo.jpg>]
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.toc)
+\tf@toc=\write4
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.59 \newpage
+              [1]
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.lof)
+\tf@lof=\write5
+
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.lot)
+\tf@lot=\write6
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 75--84
+
+ []
+
+<Schematic.jpg, id=193, 374.90062pt x 490.08093pt>
+File: Schematic.jpg Graphic file (type jpg)
+ <use Schematic.jpg>
+Package pdftex.def Info: Schematic.jpg used on input line 85.
+(pdftex.def)             Requested size: 284.52756pt x 371.96436pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--104
+
+ []
+
+[3 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Projec
+t_Report_Humanoid_Robot/Schematic.jpg>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 115.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 115.
+ [4]
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--131
+
+ []
+
+<cg1.jpg, id=204, 150.1245pt x 112.0185pt>
+File: cg1.jpg Graphic file (type jpg)
+ <use cg1.jpg>
+Package pdftex.def Info: cg1.jpg used on input line 135.
+(pdftex.def)             Requested size: 216.82965pt x 216.81477pt.
+
+<cg2.jpg, id=205, 284.56313pt x 405.01312pt>
+File: cg2.jpg Graphic file (type jpg)
+ <use cg2.jpg>
+Package pdftex.def Info: cg2.jpg used on input line 137.
+(pdftex.def)             Requested size: 216.82166pt x 216.81274pt.
+ [5 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proje
+ct_Report_Humanoid_Robot/cg1.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_R
+obot/Documentation/Final_Project_Report_Humanoid_Robot/cg2.jpg>]
+<Sch_bot.jpg, id=218, 348.55219pt x 301.125pt>
+File: Sch_bot.jpg Graphic file (type jpg)
+ <use Sch_bot.jpg>
+Package pdftex.def Info: Sch_bot.jpg used on input line 161.
+(pdftex.def)             Requested size: 193.47533pt x 199.17502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--169
+
+ []
+
+[6 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Projec
+t_Report_Humanoid_Robot/Sch_bot.jpg>]
+<Old_bot_highlighted.jpg, id=226, 2119.92pt x 2445.135pt>
+File: Old_bot_highlighted.jpg Graphic file (type jpg)
+
+<use Old_bot_highlighted.jpg>
+Package pdftex.def Info: Old_bot_highlighted.jpg used on input line 219.
+(pdftex.def)             Requested size: 170.69687pt x 227.58922pt.
+
+<magnified_leg_joint_old.jpg, id=227, 1987.425pt x 3131.7pt>
+File: magnified_leg_joint_old.jpg Graphic file (type jpg)
+
+<use magnified_leg_joint_old.jpg>
+Package pdftex.def Info: magnified_leg_joint_old.jpg used on input line 221.
+(pdftex.def)             Requested size: 170.70294pt x 227.60391pt.
+
+<square_brackets.jpg, id=228, 2457.18pt x 3276.24pt>
+File: square_brackets.jpg Graphic file (type jpg)
+ <use square_brackets.jpg>
+Package pdftex.def Info: square_brackets.jpg used on input line 231.
+(pdftex.def)             Requested size: 170.7079pt x 227.61053pt.
+
+<torso_proportion.jpg, id=229, 2457.18pt x 3276.24pt>
+File: torso_proportion.jpg Graphic file (type jpg)
+
+<use torso_proportion.jpg>
+Package pdftex.def Info: torso_proportion.jpg used on input line 233.
+(pdftex.def)             Requested size: 170.7079pt x 227.61053pt.
+
+<WP_20140611_005.jpg, id=230, 875.27pt x 1168.365pt>
+File: WP_20140611_005.jpg Graphic file (type jpg)
+ <use WP_20140611_005.jpg>
+Package pdftex.def Info: WP_20140611_005.jpg used on input line 236.
+(pdftex.def)             Requested size: 170.71034pt x 227.6074pt.
+
+<WP_20140611_007.jpg, id=231, 270.00874pt x 359.3425pt>
+File: WP_20140611_007.jpg Graphic file (type jpg)
+
+<use WP_20140611_007.jpg>
+Package pdftex.def Info: WP_20140611_007.jpg used on input line 238.
+(pdftex.def)             Requested size: 170.72028pt x 227.62614pt.
+ [7 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proje
+ct_Report_Humanoid_Robot/Old_bot_highlighted.jpg> <C:/Users/Vijay/Desktop/eYSIP
+_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/magnifie
+d_leg_joint_old.jpg>] [8 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Docu
+mentation/Final_Project_Report_Humanoid_Robot/square_brackets.jpg> <C:/Users/Vi
+jay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humano
+id_Robot/torso_proportion.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robo
+t/Documentation/Final_Project_Report_Humanoid_Robot/WP_20140611_005.jpg> <C:/Us
+ers/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_
+Humanoid_Robot/WP_20140611_007.jpg>]pdfTeX warning (ext4): destination with the
+ same identifier (name{subfigure.3.1}) has been already used, duplicate ignored
+
+<to be read again> 
+                   \relax 
+l.267 	\subfloat
+                [fig a]{\includegraphics[width = 6cm,height= 7cm]{IMG_201406...
+<IMG_20140607_114231.jpg, id=250, 2457.18pt x 3276.24pt>
+File: IMG_20140607_114231.jpg Graphic file (type jpg)
+
+<use IMG_20140607_114231.jpg>
+Package pdftex.def Info: IMG_20140607_114231.jpg used on input line 267.
+(pdftex.def)             Requested size: 170.7079pt x 199.16547pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.269 	\subfloat
+                [fig b]{\includegraphics[width = 6cm,height= 7cm]{IMG_201406...
+<IMG_20140607_214454.jpg, id=251, 2457.18pt x 3276.24pt>
+File: IMG_20140607_214454.jpg Graphic file (type jpg)
+
+<use IMG_20140607_214454.jpg>
+Package pdftex.def Info: IMG_20140607_214454.jpg used on input line 269.
+(pdftex.def)             Requested size: 170.7079pt x 199.16547pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.271 	\subfloat
+                [fig c]{\includegraphics[width = 6cm,height= 7cm]{hip.jpg}}
+<hip.jpg, id=252, 1461.46pt x 2601.72pt>
+File: hip.jpg Graphic file (type jpg)
+ <use hip.jpg>
+Package pdftex.def Info: hip.jpg used on input line 271.
+(pdftex.def)             Requested size: 170.70692pt x 199.16988pt.
+ [9 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proje
+ct_Report_Humanoid_Robot/IMG_20140607_114231.jpg> <C:/Users/Vijay/Desktop/eYSIP
+_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/IMG_2014
+0607_214454.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentatio
+n/Final_Project_Report_Humanoid_Robot/hip.jpg>]pdfTeX warning (ext4): destinati
+on with the same identifier (name{subfigure.3.1}) has been already used, duplic
+ate ignored
+<to be read again> 
+                   \relax 
+l.293 	\subfloat
+                [High torque Metal Gear Servo]{\includegraphics[width = 7cm,...
+<Servo.jpg, id=262, 2463.2025pt x 1818.795pt>
+File: Servo.jpg Graphic file (type jpg)
+ <use Servo.jpg>
+Package pdftex.def Info: Servo.jpg used on input line 293.
+(pdftex.def)             Requested size: 199.16501pt x 170.70587pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.295 	\subfloat
+                [Servo Bracket]{\includegraphics[width = 7cm,height= 6cm]{se...
+<servo_bracket.jpg, id=263, 1481.535pt x 1282.7925pt>
+File: servo_bracket.jpg Graphic file (type jpg)
+ <use servo_bracket.jpg>
+Package pdftex.def Info: servo_bracket.jpg used on input line 295.
+(pdftex.def)             Requested size: 199.16216pt x 170.70322pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.297 	\subfloat
+                [C bracket Small]{\includegraphics[width = 7cm,height= 6cm]{...
+<C_bracket_small.jpg, id=264, 1782.66pt x 1505.625pt>
+File: C_bracket_small.jpg Graphic file (type jpg)
+
+<use C_bracket_small.jpg>
+Package pdftex.def Info: C_bracket_small.jpg used on input line 297.
+(pdftex.def)             Requested size: 199.16693pt x 170.6965pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.4
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.299 	\subfloat
+                [C bracket Long]{\includegraphics[width = 7cm,height= 6cm]{C...
+<C_bracket_long.jpg, id=265, 2174.1225pt x 2029.5825pt>
+File: C_bracket_long.jpg Graphic file (type jpg)
+
+<use C_bracket_long.jpg>
+Package pdftex.def Info: C_bracket_long.jpg used on input line 299.
+(pdftex.def)             Requested size: 199.14589pt x 170.70055pt.
+ [10 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/Servo.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoi
+d_Robot/Documentation/Final_Project_Report_Humanoid_Robot/servo_bracket.jpg> <C
+:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Rep
+ort_Humanoid_Robot/C_bracket_small.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Huma
+noid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/C_bracket_long.jpg
+>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3
+.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.306 	\subfloat
+                [C bracket Hand]{\includegraphics[width = 7cm,height= 6cm]{h...
+<handCbraket.jpg, id=270, 2204.235pt x 1812.7725pt>
+File: handCbraket.jpg Graphic file (type jpg)
+ <use handCbraket.jpg>
+Package pdftex.def Info: handCbraket.jpg used on input line 306.
+(pdftex.def)             Requested size: 199.14616pt x 170.69383pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.6
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.308 	\subfloat
+                [L bracket]{\includegraphics[width = 7cm,height= 6cm]{L_brac...
+<L_bracket.jpg, id=271, 1903.11pt x 2059.695pt>
+File: L_bracket.jpg Graphic file (type jpg)
+ <use L_bracket.jpg>
+Package pdftex.def Info: L_bracket.jpg used on input line 308.
+(pdftex.def)             Requested size: 199.15002pt x 170.6875pt.
+
+<flap.jpg, id=272, 1282.7925pt x 1065.9825pt>
+File: flap.jpg Graphic file (type jpg)
+ <use flap.jpg>
+Package pdftex.def Info: flap.jpg used on input line 310.
+(pdftex.def)             Requested size: 199.16353pt x 170.70708pt.
+
+<screws.jpg, id=273, 2348.775pt x 1072.005pt>
+File: screws.jpg Graphic file (type jpg)
+ <use screws.jpg>
+Package pdftex.def Info: screws.jpg used on input line 312.
+(pdftex.def)             Requested size: 199.15941pt x 170.70644pt.
+
+<polystyrine.jpg, id=274, 2565.585pt x 1698.345pt>
+File: polystyrine.jpg Graphic file (type jpg)
+ <use polystyrine.jpg>
+Package pdftex.def Info: polystyrine.jpg used on input line 314.
+(pdftex.def)             Requested size: 199.14397pt x 170.69963pt.
+
+[11 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proje
+ct_Report_Humanoid_Robot/handCbraket.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Hu
+manoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/L_bracket.jpg> <
+C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Re
+port_Humanoid_Robot/flap.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot
+/Documentation/Final_Project_Report_Humanoid_Robot/screws.jpg> <C:/Users/Vijay/
+Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_R
+obot/polystyrine.jpg>]pdfTeX warning (ext4): destination with the same identifi
+er (name{subfigure.3.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.326 	\subfloat
+                [Snapshot of the Design]{\includegraphics[width = 7cm,height...
+<bracket.jpg, id=282, 394.47375pt x 390.70969pt>
+File: bracket.jpg Graphic file (type jpg)
+ <use bracket.jpg>
+Package pdftex.def Info: bracket.jpg used on input line 326.
+(pdftex.def)             Requested size: 199.16853pt x 170.71448pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.3.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.328 	\subfloat
+                [3D Printed bracket]{\includegraphics[width = 7cm,height= 6c...
+<C_bracket_small_3D_printed.jpg, id=283, 1975.38pt x 1457.445pt>
+File: C_bracket_small_3D_printed.jpg Graphic file (type jpg)
+
+<use C_bracket_small_3D_printed.jpg>
+Package pdftex.def Info: C_bracket_small_3D_printed.jpg used on input line 328.
+
+(pdftex.def)             Requested size: 199.14708pt x 170.70496pt.
+
+<mountedservo.jpg, id=284, 2119.92pt x 1776.6375pt>
+File: mountedservo.jpg Graphic file (type jpg)
+ <use mountedservo.jpg>
+Package pdftex.def Info: mountedservo.jpg used on input line 340.
+(pdftex.def)             Requested size: 199.16252pt x 170.70708pt.
+
+<C_bracket_with_flap.jpg, id=285, 2222.3025pt x 1957.3125pt>
+File: C_bracket_with_flap.jpg Graphic file (type jpg)
+
+<use C_bracket_with_flap.jpg>
+Package pdftex.def Info: C_bracket_with_flap.jpg used on input line 342.
+(pdftex.def)             Requested size: 199.15085pt x 170.71489pt.
+ [12 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/bracket.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Human
+oid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/C_bracket_small_3D_
+printed.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Fi
+nal_Project_Report_Humanoid_Robot/mountedservo.jpg> <C:/Users/Vijay/Desktop/eYS
+IP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/C_brac
+ket_with_flap.jpg>]
+<Servo_link.jpg, id=293, 1505.625pt x 1734.48pt>
+File: Servo_link.jpg Graphic file (type jpg)
+ <use Servo_link.jpg>
+Package pdftex.def Info: Servo_link.jpg used on input line 351.
+(pdftex.def)             Requested size: 199.16124pt x 170.70569pt.
+
+<HipKnee.jpg, id=294, 1897.0875pt x 3119.655pt>
+File: HipKnee.jpg Graphic file (type jpg)
+ <use HipKnee.jpg>
+Package pdftex.def Info: HipKnee.jpg used on input line 353.
+(pdftex.def)             Requested size: 142.24648pt x 170.70091pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 364--370
+
+ []
+
+<torso.jpg, id=295, 2354.7975pt x 1891.065pt>
+File: torso.jpg Graphic file (type jpg)
+ <use torso.jpg>
+Package pdftex.def Info: torso.jpg used on input line 371.
+(pdftex.def)             Requested size: 312.96136pt x 256.06186pt.
+ [13 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/Servo_link.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Hu
+manoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/HipKnee.jpg> <C:
+/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Repo
+rt_Humanoid_Robot/torso.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--379
+
+ []
+
+<hand.jpg, id=305, 3131.7pt x 1318.9275pt>
+File: hand.jpg Graphic file (type jpg)
+ <use hand.jpg>
+Package pdftex.def Info: hand.jpg used on input line 380.
+(pdftex.def)             Requested size: 369.86235pt x 142.24481pt.
+
+<leg_fv.jpg, id=306, 3276.24pt x 1017.8025pt>
+File: leg_fv.jpg Graphic file (type jpg)
+ <use leg_fv.jpg>
+Package pdftex.def Info: leg_fv.jpg used on input line 390.
+(pdftex.def)             Requested size: 369.88586pt x 142.25842pt.
+
+<leg_SV.jpg, id=307, 3276.24pt x 1072.005pt>
+File: leg_SV.jpg Graphic file (type jpg)
+ <use leg_SV.jpg>
+Package pdftex.def Info: leg_SV.jpg used on input line 392.
+(pdftex.def)             Requested size: 369.88586pt x 142.2608pt.
+ [14 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/hand.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid
+_Robot/Documentation/Final_Project_Report_Humanoid_Robot/leg_fv.jpg> <C:/Users/
+Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Huma
+noid_Robot/leg_SV.jpg>]pdfTeX warning (ext4): destination with the same identif
+ier (name{subfigure.4.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.401 	\subfloat
+                [Shoulder link]{\includegraphics[width = 7.5cm,height= 9cm]{...
+<shoulderlink.jpg, id=313, 2788.4175pt x 2252.415pt>
+File: shoulderlink.jpg Graphic file (type jpg)
+ <use shoulderlink.jpg>
+Package pdftex.def Info: shoulderlink.jpg used on input line 401.
+(pdftex.def)             Requested size: 213.37706pt x 256.04936pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 	\subfloat
+                [Foot link]{\includegraphics[width = 7.5cm,height= 9cm]{foot...
+<foot.jpg, id=314, 2987.16pt x 2348.775pt>
+File: foot.jpg Graphic file (type jpg)
+ <use foot.jpg>
+Package pdftex.def Info: foot.jpg used on input line 403.
+(pdftex.def)             Requested size: 213.36153pt x 256.07233pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.3
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.405 	\subfloat
+                [Hip link]{\includegraphics[width = 10cm,height= 9cm]{hip_to...
+<hip_torso_linkage.jpg, id=315, 2680.0125pt x 2402.9775pt>
+File: hip_torso_linkage.jpg Graphic file (type jpg)
+
+<use hip_torso_linkage.jpg>
+Package pdftex.def Info: hip_torso_linkage.jpg used on input line 405.
+(pdftex.def)             Requested size: 284.49709pt x 256.04173pt.
+ [15 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/shoulderlink.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_
+Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/foot.jpg> <C:/
+Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Repor
+t_Humanoid_Robot/hip_torso_linkage.jpg>]pdfTeX warning (ext4): destination with
+ the same identifier (name{subfigure.4.4}) has been already used, duplicate ign
+ored
+<to be read again> 
+                   \relax 
+l.412 	\subfloat
+                [Final assembly of the robot]{\includegraphics[width = 7.5cm...
+<body_assembly.jpg, id=320, 2457.18pt x 2999.205pt>
+File: body_assembly.jpg Graphic file (type jpg)
+ <use body_assembly.jpg>
+Package pdftex.def Info: body_assembly.jpg used on input line 412.
+(pdftex.def)             Requested size: 213.3755pt x 312.98085pt.
+
+<servo_num.jpg, id=321, 374.14781pt x 465.99094pt>
+File: servo_num.jpg Graphic file (type jpg)
+ <use servo_num.jpg>
+Package pdftex.def Info: servo_num.jpg used on input line 414.
+(pdftex.def)             Requested size: 213.39777pt x 312.98734pt.
+ [16 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/body_assembly.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014
+_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/servo_num.jpg
+>]pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4
+.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.466 	\subfloat
+                {\includegraphics[width = 6cm,height= 7cm]{motion1.jpg}}
+<motion1.jpg, id=328, 459.96844pt x 283.0575pt>
+File: motion1.jpg Graphic file (type jpg)
+ <use motion1.jpg>
+Package pdftex.def Info: motion1.jpg used on input line 466.
+(pdftex.def)             Requested size: 170.71906pt x 199.17548pt.
+pdfTeX warning (ext4): destination with the same identifier (name{subfigure.4.2
+}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.468 	\subfloat
+                {\includegraphics[width = 6cm,height= 7cm]{motion1_1.jpg}}
+<motion1_1.jpg, id=329, 132.057pt x 192.1725pt>
+File: motion1_1.jpg Graphic file (type jpg)
+ <use motion1_1.jpg>
+Package pdftex.def Info: motion1_1.jpg used on input line 468.
+(pdftex.def)             Requested size: 170.72903pt x 199.1685pt.
+ [17 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/motion1.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Human
+oid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/motion1_1.jpg>]
+<m2.jpg, id=341, 181.42781pt x 259.7203pt>
+File: m2.jpg Graphic file (type jpg)
+ <use m2.jpg>
+Package pdftex.def Info: m2.jpg used on input line 491.
+(pdftex.def)             Requested size: 170.71933pt x 199.16887pt.
+
+<m2_1.jpg, id=342, 117.603pt x 196.1145pt>
+File: m2_1.jpg Graphic file (type jpg)
+ <use m2_1.jpg>
+Package pdftex.def Info: m2_1.jpg used on input line 493.
+(pdftex.def)             Requested size: 170.72813pt x 199.17229pt.
+ [18 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/m2.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_R
+obot/Documentation/Final_Project_Report_Humanoid_Robot/m2_1.jpg>]
+<footprint.jpg, id=355, 598.48593pt x 180.675pt>
+File: footprint.jpg Graphic file (type jpg)
+ <use footprint.jpg>
+Package pdftex.def Info: footprint.jpg used on input line 524.
+(pdftex.def)             Requested size: 455.25584pt x 227.62411pt.
+ [19 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/footprint.jpg>] <m3.jpg, id=365, 459.96844pt x 283.05
+75pt>
+File: m3.jpg Graphic file (type jpg)
+
+<use m3.jpg>
+Package pdftex.def Info: m3.jpg used on input line 553.
+(pdftex.def)             Requested size: 170.71906pt x 199.17548pt.
+ <m3_1.jpg, id=366, 131.4pt x 166.221pt>
+File: m3_1.jpg Graphic file (type jpg)
+ <use m3_1.jpg>
+Package pdftex.def Info: m3_1.jpg used on input line 555.
+(pdftex.def)             Requested size: 170.72774pt x 199.16995pt.
+
+<m4.png, id=369, 206.27063pt x 221.32687pt>
+File: m4.png Graphic file (type png)
+ <use m4.png>
+Package pdftex.def Info: m4.png used on input line 576.
+(pdftex.def)             Requested size: 170.71986pt x 199.17882pt.
+
+<m4_1.png, id=370, 115.3035pt x 166.5495pt>
+File: m4_1.png Graphic file (type png)
+ <use m4_1.png>
+Package pdftex.def Info: m4_1.png used on input line 578.
+(pdftex.def)             Requested size: 170.72566pt x 199.1697pt.
+ [20 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/m3.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_R
+obot/Documentation/Final_Project_Report_Humanoid_Robot/m3_1.jpg> <C:/Users/Vija
+y/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Project_Report_Humanoid
+_Robot/m4.png> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/
+Final_Project_Report_Humanoid_Robot/m4_1.png>] <A640.jpg, id=381, 478.03593pt x
+ 379.4175pt>
+File: A640.jpg Graphic file (type jpg)
+
+<use A640.jpg>
+Package pdftex.def Info: A640.jpg used on input line 617.
+(pdftex.def)             Requested size: 170.71419pt x 113.80875pt.
+ [21 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/A640.jpg>]
+<schematic_connections.jpg, id=387, 935.495pt x 679.53876pt>
+File: schematic_connections.jpg Graphic file (type jpg)
+
+<use schematic_connections.jpg>
+Package pdftex.def Info: schematic_connections.jpg used on input line 631.
+(pdftex.def)             Requested size: 227.62094pt x 170.71378pt.
+ [22 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/schematic_connections.jpg>] [23] <waveform.jpg, id=40
+7, 752.8125pt x 560.0925pt>
+File: waveform.jpg Graphic file (type jpg)
+ <use waveform.jpg>
+Package pdftex.def Info: waveform.jpg used on input line 707.
+(pdftex.def)             Requested size: 284.53246pt x 199.1718pt.
+
+<ac.jpg, id=408, 282.8385pt x 142.569pt>
+File: ac.jpg Graphic file (type jpg)
+ <use ac.jpg>
+Package pdftex.def Info: ac.jpg used on input line 731.
+(pdftex.def)             Requested size: 284.55115pt x 170.72298pt.
+
+<dc.jpg, id=409, 727.71875pt x 382.42876pt>
+File: dc.jpg Graphic file (type jpg)
+ <use dc.jpg>
+Package pdftex.def Info: dc.jpg used on input line 736.
+(pdftex.def)             Requested size: 284.53093pt x 170.71419pt.
+ [24 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/waveform.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Huma
+noid_Robot/Documentation/Final_Project_Report_Humanoid_Robot/ac.jpg>]
+<battery.jpg, id=416, 2589.675pt x 1294.8375pt>
+File: battery.jpg Graphic file (type jpg)
+ <use battery.jpg>
+Package pdftex.def Info: battery.jpg used on input line 741.
+(pdftex.def)             Requested size: 284.50949pt x 199.15665pt.
+ [25 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/dc.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_R
+obot/Documentation/Final_Project_Report_Humanoid_Robot/battery.jpg>]
+<wire.jpg, id=422, 2782.395pt x 2252.415pt>
+File: wire.jpg Graphic file (type jpg)
+ <use wire.jpg>
+Package pdftex.def Info: wire.jpg used on input line 759.
+(pdftex.def)             Requested size: 199.1605pt x 199.1686pt.
+
+<wave.jpg, id=423, 3095.565pt x 2294.5725pt>
+File: wave.jpg Graphic file (type jpg)
+ <use wave.jpg>
+Package pdftex.def Info: wave.jpg used on input line 761.
+(pdftex.def)             Requested size: 199.14047pt x 199.15002pt.
+ [26 <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid_Robot/Documentation/Final_Proj
+ect_Report_Humanoid_Robot/wire.jpg> <C:/Users/Vijay/Desktop/eYSIP_2014_Humanoid
+_Robot/Documentation/Final_Project_Report_Humanoid_Robot/wave.jpg>] [27]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 834.
+ [28]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 834.
+
+(C:\Users\Vijay\Desktop\eYSIP_2014_Humanoid_Robot\Documentation\Final_Project_R
+eport_Humanoid_Robot\Final_Project_Report_Humanoid_Robot.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 834.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 834.
+Package rerunfilecheck Info: File `Final_Project_Report_Humanoid_Robot.out' has
+ not changed.
+(rerunfilecheck)             Checksum: 835F494E99336F1084AFC25572649EAA;1694.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 834.
+ ) 
+Here is how much of TeX's memory you used:
+ 8692 strings out of 493921
+ 131809 string characters out of 3147282
+ 220195 words of memory out of 3000000
+ 11660 multiletter control sequences out of 15000+200000
+ 11201 words of font info for 40 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 44i,10n,85p,932b,471s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr1
+7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Program Files/MiKTeX 2.9/
+fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on Final_Project_Report_Humanoid_Robot.pdf (29 pages, 18469392 b
+ytes).
+PDF statistics:
+ 532 PDF objects out of 1000 (max. 8388607)
+ 151 named destinations out of 1000 (max. 500000)
+ 468 words of extra memory for PDF output out of 10000 (max. 10000000)
+

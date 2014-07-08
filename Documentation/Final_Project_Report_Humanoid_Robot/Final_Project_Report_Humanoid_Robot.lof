@@ -1,0 +1,52 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Axis of symmetry\relax }}{5}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces schematic of robot\relax }}{6}{figure.caption.5}
+\contentsline {figure}{\numberline {3}{\ignorespaces Mech design phase1\relax }}{7}{figure.caption.7}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {fig a}}}{7}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fig b}}}{7}{subfigure.3.2}
+\contentsline {figure}{\numberline {2}{\ignorespaces Mech design phase1\relax }}{8}{figure.caption.8}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {fig c}}}{8}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {fig d}}}{8}{subfigure.3.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {fig e}}}{8}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {fig f}}}{8}{subfigure.3.6}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {fig a}}}{9}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {fig b}}}{9}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {fig c}}}{9}{subfigure.3.3}
+\contentsline {figure}{\numberline {3}{\ignorespaces List of components\relax }}{10}{figure.caption.10}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {High torque Metal Gear Servo}}}{10}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Servo Bracket}}}{10}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {C bracket Small}}}{10}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {C bracket Long}}}{10}{subfigure.3.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces List of components\relax }}{11}{figure.caption.11}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {C bracket Hand}}}{11}{subfigure.3.5}
+\contentsline {subfigure}{\numberline {(f)}{\ignorespaces {L bracket}}}{11}{subfigure.3.6}
+\contentsline {subfigure}{\numberline {(g)}{\ignorespaces {Servo Flap}}}{11}{subfigure.3.7}
+\contentsline {subfigure}{\numberline {(h)}{\ignorespaces {Screws}}}{11}{subfigure.3.8}
+\contentsline {subfigure}{\numberline {(i)}{\ignorespaces {Hard Polymer}}}{11}{subfigure.3.9}
+\contentsline {figure}{\numberline {3}{\ignorespaces 3D printed component\relax }}{12}{figure.caption.12}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Snapshot of the Design}}}{12}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {3D Printed bracket}}}{12}{subfigure.3.2}
+\contentsline {figure}{\numberline {4}{\ignorespaces Basic Linkage\relax }}{12}{figure.caption.13}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Servo mounted on bracket}}}{12}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {C bracket with Flap attached}}}{12}{subfigure.4.2}
+\contentsline {figure}{\numberline {3}{\ignorespaces Basic Linkage\relax }}{13}{figure.caption.14}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Linkage of servo with C bracket}}}{13}{subfigure.4.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Hip and knee linkage}}}{13}{subfigure.4.4}
+\contentsline {figure}{\numberline {4}{\ignorespaces Final Assembly\relax }}{15}{figure.caption.15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Shoulder link}}}{15}{subfigure.4.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Foot link}}}{15}{subfigure.4.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Hip link}}}{15}{subfigure.4.3}
+\contentsline {figure}{\numberline {3}{\ignorespaces Final Assembly\relax }}{16}{figure.caption.16}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Final assembly of the robot}}}{16}{subfigure.4.4}
+\contentsline {subfigure}{\numberline {(e)}{\ignorespaces {servo numbering}}}{16}{subfigure.4.5}
+\contentsline {figure}{\numberline {4}{\ignorespaces Basic swing\relax }}{17}{figure.caption.18}
+\contentsline {figure}{\numberline {5}{\ignorespaces Basic knee swing\relax }}{18}{figure.caption.19}
+\contentsline {figure}{\numberline {6}{\ignorespaces Shaded grey region is the support polygon \cite {zero}.a) double support phase b) Double support (pre swing phase) c) single support\relax }}{19}{figure.caption.20}
+\contentsline {figure}{\numberline {7}{\ignorespaces Basic swing\relax }}{20}{figure.caption.21}
+\contentsline {figure}{\numberline {8}{\ignorespaces Basic knee swing\relax }}{20}{figure.caption.22}
+\contentsline {figure}{\numberline {9}{\ignorespaces ATMEGA640 development board\relax }}{21}{figure.caption.23}
+\contentsline {figure}{\numberline {10}{\ignorespaces Schematic of servo pin connection with microcontroller port\relax }}{22}{figure.caption.24}
+\contentsline {figure}{\numberline {11}{\ignorespaces PWM waveform generation using interrupts\relax }}{24}{figure.caption.25}
+\contentsline {figure}{\numberline {12}{\ignorespaces Ni-MH battery 6V 5000mAh\relax }}{25}{figure.caption.26}
+\contentsline {figure}{\numberline {13}{\ignorespaces Servo jitter\relax }}{26}{figure.caption.27}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Twisted signal wires}}}{26}{subfigure.13.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Distortion reduced PWM signal}}}{26}{subfigure.13.2}

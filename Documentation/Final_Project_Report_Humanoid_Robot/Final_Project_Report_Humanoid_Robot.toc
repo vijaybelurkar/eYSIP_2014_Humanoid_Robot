@@ -1,0 +1,24 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}Bipedal robots}{4}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Bipedal motion}{4}{subsection.1.2}
+\contentsline {subsubsection}{\numberline {1.2.1}Walking}{4}{subsubsection.1.2.1}
+\contentsline {subsubsection}{\numberline {1.2.2}Running}{4}{subsubsection.1.2.2}
+\contentsline {subsection}{\numberline {1.3}Center of mass}{5}{subsection.1.3}
+\contentsline {subsubsection}{\numberline {1.3.1}Calculation of CG/COM}{6}{subsubsection.1.3.1}
+\contentsline {section}{\numberline {2}Mechanical Design and Construction}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Structure of the robot}{7}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Phase 1 - Existing Design}{7}{subsubsection.2.1.1}
+\contentsline {subsubsection}{\numberline {2.1.2}Phase 2 - New design}{9}{subsubsection.2.1.2}
+\contentsline {subsubsection}{\numberline {2.1.3}Phase 3 \IeC {\textendash } Modifications in New Design}{10}{subsubsection.2.1.3}
+\contentsline {subsection}{\numberline {2.2}Construction of Robot}{10}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Problem faced in finding appropriate component}{12}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}Assembly}{12}{subsubsection.2.2.2}
+\contentsline {section}{\numberline {3}Motion of the Robot}{17}{section.3}
+\contentsline {subsection}{\numberline {3.1}Motion of the Phase 2 structure}{17}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Motion of the Phase 3 structure}{19}{subsection.3.2}
+\contentsline {section}{\numberline {4}Electronic Design}{21}{section.4}
+\contentsline {subsection}{\numberline {4.1}Connections}{22}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}PWM generation}{22}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Power System}{24}{subsection.4.3}
+\contentsline {section}{\numberline {5}Problems faced with servo motors}{25}{section.5}
+\contentsline {section}{\numberline {6}Future Work}{27}{section.6}
