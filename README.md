@@ -1,7 +1,7 @@
 eYSIP_2014_Humanoid_Robot
 =========================
 
-e-YANTRA Summer Internship  Program 26th May 2014 to 10th July 2014
+e-Yantra Summer Internship  Program 26th May 2014 to 10th July 2014
 
 Team Mentor:
 =============
@@ -20,7 +20,7 @@ Team Members:
 Description: 
 =============
 
-This repository is a result of eYANTRA internship 2014 for Humanoid robot project which was done during the course of 6 weeks from 26th may till 10th july.
+This repository is a result of e-Yantra Internship 2014 for Humanoid robot project which was done during the course of 6 weeks from 26th may till 10th july.
 
 All the Documents and codes related to the Humanoid robot is available in this repository.
 
