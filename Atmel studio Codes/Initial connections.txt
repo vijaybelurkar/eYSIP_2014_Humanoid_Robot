@@ -1,0 +1,11 @@
+Steps:
+1.The micro-controller is powered by a 12V 1A adapter.
+2.The signal pins from the micro-controller is connected to the general purpose board on the robot as indicated there number wise.
+3.The general purpose board has a separate T-connector for the power supply of all the 16 servo motors.
+4.The power supply rated 6V and 5000mAh can be used to drive the servos, this can given either from a battery or from a external power source.
+5.If a battery is used than use it along with a battery protection circuit provided, so as monitor the voltage continuously. If the voltage goes below 5V for a 6V battery then it would cause problem in charging. Hence it is advisable to use the battery protection circuit.
+6.Once you get the low voltage signal, then charge the battery using the battery charger.
+
+* First switch on the servo power supply then switch on the micro-controller.
+* During programming switch off the servo power supply.
+ 

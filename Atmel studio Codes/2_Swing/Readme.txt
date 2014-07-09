@@ -1,0 +1,2 @@
+This program basically is moves the robot sideways, left and right with the angle required to balance the center of gravity.
+(Refer the document section 3.2 motion of the robot, to know about the angle calculation and the motion supported by images)
